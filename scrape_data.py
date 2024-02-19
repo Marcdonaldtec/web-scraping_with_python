@@ -6,6 +6,6 @@ void main() {
   if (nombre > 70) {
     print('$nombre est plus grand que 70.');
   } else {
-    print('$nombre n\'est pas plus grand que 70.');
+    print('$nombre n\'est pas plus grand , que 70.');
   }
 }
