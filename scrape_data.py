@@ -1,5 +1,5 @@
 void main() {
-  // Nombre statique à vérifier
+
   int nombre = 80;
 
 
